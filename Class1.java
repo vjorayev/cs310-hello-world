@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Vepaly Jorayev
  */
 
 public class Class1 {
